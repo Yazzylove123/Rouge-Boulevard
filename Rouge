@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rouge Boulevard</title>
+    <style>
+        body {
+            background-color: red;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            padding: 50px;
+            margin: 0;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Rouge Boulevard</h1>
+    <p>Visit us on Instagram: <a href="https://www.instagram.com/" target="_blank">Instagram</a></p>
+</body>
+</html>
